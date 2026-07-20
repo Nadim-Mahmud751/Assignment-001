@@ -44,7 +44,7 @@
     background-color: #113ca4;      
 }
 
-
+/* banner section styles */
 
 
 .hero-section {
@@ -106,7 +106,7 @@
 }
 
 
-
+/* speakers section style */
 
 
 .speakers-section {
@@ -186,7 +186,7 @@
 
 
 
-
+/* pricing section styles */
 
 
 .pricing-section {
@@ -339,7 +339,7 @@
 }
 
 
-
+/* something section styles */
 
 .faq-section {
     padding: 100px 0; 
@@ -408,7 +408,7 @@
     font-family: sans-serif;
 }
 
-
+/* footer section styles */
 
 
 .main-footer {
